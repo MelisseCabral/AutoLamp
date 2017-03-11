@@ -2,7 +2,7 @@
 
 <b>
 Documentação: Dispositivo de acionamento de lâmpadas via rede wifi<br>
-Por: Julio Lima, Melisse Cabral<br>
+Por: Julio Lima, Melisse Cabral<br></b>
 
 <h1>A proposta do Dispositivo<h1>
 
