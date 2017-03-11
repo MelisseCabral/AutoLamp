@@ -19,6 +19,6 @@ mercado atual.</p>
 
 <h1> O Funcionamento do dispositivo </h1>
 
-<P>O dispositivo é composto por um microcontrolador da familia ESP12, reguladores de tensão entre outros componetes e seu ele cadastra e reconhece o dispositivo master utilizado (computador, tablet, smartphone e etc) a parti do seu RFID (do inglês "Radio-Frequency IDentification") é um método de identificação automática através de sinais de rádio, recuperando e armazenando dados remotamente através de dispositivos denominados etiquetas RFID.</P>
+<p>O dispositivo é composto por um microcontrolador da familia ESP12, reguladores de tensão entre outros componetes e seu ele cadastra e reconhece o dispositivo master utilizado (computador, tablet, smartphone e etc) a parti do seu RFID (do inglês "Radio-Frequency IDentification") é um método de identificação automática através de sinais de rádio, recuperando e armazenando dados remotamente através de dispositivos denominados etiquetas RFID.</p>
 
 <p>Entretanto o usuario final não necessita de conhecimentos sobre essa tecnologia pois toda a utilização será por uma interface gráfica (Web Page) de uso intuitivo e agrádavel.</p>
